@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Antoine_Musk"><img src="https://api.daily.dev/devcards/205bab4749b94afc9695ae2eae69f631.png?r=rp1" width="400" alt="Antoine's Dev Card"/></a>
 **Axt62/AxT62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
